@@ -29,3 +29,6 @@ export CPUS=$(sysctl -n hw.physicalcpu)
 make -j $CPUS
 make install
 ```
+
+## Reference
+https://thecodinginterface.com/blog/opencv-cpp-vscode/
